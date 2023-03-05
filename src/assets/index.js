@@ -1,0 +1,13 @@
+export { default as cardio } from './cardio.jpg';
+export { default as chest } from './chest.png';
+export { default as lowerarms } from './lower arms.png';
+export { default as lowerlegs } from './lower legs.png';
+export { default as waist } from './waist.png';
+export { default as upperlegs } from './upper legs.png';
+export { default as upperarms } from './upper arms.png';
+export { default as shoulders } from './shoulders.png';
+export { default as neck } from './neck.png';
+export { default as back } from './back.png';
+export { default as equipment } from './equipment.jpg';
+export { default as bodypart } from './body-part.jpeg';
+export { default as target } from './taget.jpeg';
